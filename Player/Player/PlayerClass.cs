@@ -13,5 +13,7 @@ namespace Player
         private int charisma { get; set; }
         private bool funny { get; set; }
         private string race { get; set; }
+
+        //I chose the beers emoji myself.
     }
 }
