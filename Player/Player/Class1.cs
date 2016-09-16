@@ -9,5 +9,6 @@ namespace Player
     public class Class1
     {
         //Secret Message
+        private int strength { get; set; }
     }
 }
