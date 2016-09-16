@@ -10,5 +10,8 @@ namespace Player
     {
         //Secret Message
         private int strength { get; set; }
+        private int charisma { get; set; }
+        private bool funny { get; set; }
+        private string race { get; set; }
     }
 }
