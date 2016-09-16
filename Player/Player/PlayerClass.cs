@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Player
 {
-    public class Class1
+    public class PlayerClass
     {
         //Secret Message
         private int strength { get; set; }
