@@ -15,5 +15,6 @@ namespace Player
         private string race { get; set; }
 
         //I chose the beers emoji myself.
+        //NEAT!
     }
 }
